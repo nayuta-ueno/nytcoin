@@ -1,0 +1,4 @@
+[submodule "libs/libbloom"]
+	path = libs/libbloom
+	url = https://github.com/nayutaco/libbloom.git
+	branch = work/murmur3
